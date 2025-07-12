@@ -1,2 +1,2 @@
 # LGD-Net
-LGD-Net is a lightweight Local-Gloval Dual-stream neural network
+LGD-Net is a lightweight Local-Gloval Dual-stream neural network designed for efficient and accurate medical image classification. It combines a local feature aggregator (LFA) for fine-grained textures, a global context encoder (GCE) for long-range dependencies, and an adaptive fusion module, all in just 161K parameters, achieving state-of-the-art performance across multiple benchmark datasets.

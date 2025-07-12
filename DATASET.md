@@ -6,7 +6,7 @@ The dataset is categorized into two classes: benign and malignant. The malignant
 ALL Dataset Link: [🔗 Click Here](https://www.kaggle.com/datasets/mehradaria/leukemia)
 
 ## Peripheral Blood Cell (PBC):
-A publicly available PBC dataset has 17,092 samples. It includes eight cell types: neutrophil, eosinophil, basophil, lymphocyte, monocyte, immunoglobulin(ig), erythroblast, and platelet. It was split into 70:15:15 ratio for training, validation, and test sets, respectively. The images were resized to 224 X 224 pixels.
+A publicly available PBC dataset has 17,092 samples. It includes eight cell types: neutrophil, eosinophil, basophil, lymphocyte, monocyte, immunoglobulin(ig), erythroblast, and platelet. It was split into 80:10:10 ratio for training, validation, and test sets, respectively. The images were resized to 224 X 224 pixels.
 
 PBC Dataset Link: [🔗 Click Here](https://www.kaggle.com/datasets/bzhbzh35/peripheral-blood-cell)
 

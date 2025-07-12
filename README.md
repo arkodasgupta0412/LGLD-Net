@@ -12,13 +12,11 @@ To this end, we propose a compactly designed lightweight model (**161K parameter
 LGD-Net uses:
 - **Involution-based patch stem** to capture fine-grained local textures, and  
 - **Fourier-based global stream** to model long-range dependencies and contextual features.
-
-An **adaptive fusion module** dynamically balances local and global features for optimal representation.
-
-The proposed LGD-Net achieves **state-of-the-art performance** on three microscopic image datasets:
-- **ALL**
-- **PBC**
-- **Raabin-WBC**
+- An **adaptive fusion module** dynamically balances local and global features for optimal representation.
+- The proposed LGD-Net achieves **state-of-the-art performance** on three microscopic image datasets:
+    - **ALL**
+    - **PBC**
+    - **Raabin-WBC**
 
 ---
 

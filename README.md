@@ -13,9 +13,8 @@ LGD-Net uses:
 - **Involution-based patch stem** to capture fine-grained local textures, and  
 - **Fourier-based global stream** to model long-range dependencies and contextual features.
 - An **adaptive fusion module** dynamically balances local and global features for optimal representation.
-- The proposed LGD-Net achieves **state-of-the-art performance** on three microscopic image datasets:
+- The proposed LGD-Net achieves **state-of-the-art performance** on two microscopic image datasets:
     - **ALL**
-    - **PBC**
     - **Raabin-WBC**
 
 ---

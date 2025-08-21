@@ -1,6 +1,6 @@
 # LGLD-Net
 
-**LGLD-Net** is a Lightweight Global and Local feature-based Dual-stream neural network designed for efficient and accurate medical image classification. It combines a **Local Feature Aggregator (LFA)** for fine-grained textures, a **Global Context Encoder (GCE)** for long-range dependencies, and an **Adaptive Fusion Module**, all in just **161K parameters**, achieving state-of-the-art performance across multiple benchmark datasets.
+**LGLD-Net** is a Lightweight Global and Local feature-based Dual-stream neural network designed for efficient and accurate medical image classification. It combines a **Local Feature Aggregator (LFA)** for fine-grained textures, a **Global Context Extractor (GCE)** for long-range dependencies, and an **Adaptive Fusion Module**, all in just **161K parameters**, achieving state-of-the-art performance across multiple benchmark datasets.
 
 ---
 
@@ -14,7 +14,7 @@ Microscopic image analysis provides vital information at the cellular level. How
 
 – An **involution-based patch stem (IPS)** to capture fine-grained local textures.
 
-– A **Fourier-based (FFM)** global stream to model long-range dependencies and contextual features.
+– A **Fourier-based (FFM)** module to capture long-range dependencies and contextual features.
 
 – **Local Feature Aggregator (LFA)** and **Global Context Extractor (GCE)**.
 

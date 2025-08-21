@@ -16,7 +16,7 @@ Microscopic image analysis provides vital information at the cellular level. How
 
 – A **Fourier-based (FFM)** global stream to model long-range dependencies and contextual features.
 
-- **Local Feature Aggregator (LFA)** and **Global Context Extractor (GCE)**.
+– **Local Feature Aggregator (LFA)** and **Global Context Extractor (GCE)**.
 
 – An **adaptive fusion module (LGFM)** that dynamically balances local and global features for optimal representation.
 

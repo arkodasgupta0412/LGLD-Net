@@ -30,6 +30,8 @@ Microscopic image analysis provides vital information at the cellular level. How
 
 **Microscopic Image Classification** · **Lightweight CNN** · **Local and Global Features** · **Dual-branch Neural Network**
 
+---
+
 ## Model Architecture
 
 ![Architecture](https://github.com/arkodasgupta0412/LGLD-Net/blob/main/figures/LGLDNet_pipeline.jpg)

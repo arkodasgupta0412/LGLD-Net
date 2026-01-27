@@ -35,3 +35,5 @@ Microscopic image analysis provides vital information at the cellular level. How
 ## Model Architecture
 
 ![Architecture](https://github.com/arkodasgupta0412/LGLD-Net/blob/main/figures/LGLDNet_pipeline.jpg)
+
+Accepted at International Conference on Information Technology and Applications (ICITA 2025), Oslo, Norway

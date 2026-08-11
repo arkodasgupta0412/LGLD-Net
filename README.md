@@ -37,3 +37,21 @@ Microscopic image analysis provides vital information at the cellular level. How
 ![Architecture](https://github.com/arkodasgupta0412/LGLD-Net/blob/main/figures/LGLDNet_pipeline.jpg)
 
 Accepted at International Conference on Information Technology and Applications (ICITA 2025), Oslo, Norway
+
+---
+
+## DOI
+10.1007/978-3-032-21174-3_28
+
+## Citation
+If you find our code and model useful, please cite our work. Thank you!
+
+```
+@InProceedings{
+10.1007/978-3-032-21174-3_28,
+author="Palai, Arjeesh and Dasgupta, Arko and Ali, Asfak and Kaplun, Dmitrii and Voznesensky, Alexander and Sarkar, Ram",
+title="LGLD-Net: A Lightweight Global and Local Feature-Based Dual-Stream Neural Network for Microscopic Medical Image Classification",
+booktitle="Proceedings of International Conference on Information Technology and Applications",
+year="2026"
+}
+```
